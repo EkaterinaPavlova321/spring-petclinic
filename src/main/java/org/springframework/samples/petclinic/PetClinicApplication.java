@@ -15,7 +15,7 @@
  */
 
 package org.springframework.samples.petclinic;
-
+import math;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ImportRuntimeHints;
@@ -35,3 +35,4 @@ public class PetClinicApplication {
 	}
 
 }
+
